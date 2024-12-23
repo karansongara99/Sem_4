@@ -4,7 +4,7 @@
 
 It is used for:
 
-web development (server-side),
-software development,
-mathematics,
+web development (server-side), <br>
+software development, <br>
+mathematics, <br>
 system scripting.</p>
